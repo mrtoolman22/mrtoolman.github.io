@@ -3,16 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+Một người thích mày mò, sáng tạo, và đam mê phần cứng, luôn háo hức học hỏi kiến thức mới.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Câu trích dẫn yêu thích: "It's not about ideas. It's about making ideas happen." — Scott Belsky
