@@ -1,0 +1,9 @@
+images:
+  - src: "/assets/images/esc/controller_top.jpg"
+    alt: "Controller top view"
+  - src: "/assets/images/esc/controller_bottom.jpg"
+    alt: "Controller bottom view"
+  - src: "/assets/images/esc/mosfet_top.jpg"
+    alt: "MOSTFET top view"
+  - src: "/assets/images/esc/mostfet_bottom.jpg"
+    alt: "MOSTFET bottom view"
