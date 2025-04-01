@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Đôi nét về mình
 permalink: /about/
 ---
 Một người thích mày mò, sáng tạo, và đam mê phần cứng, luôn háo hức học hỏi kiến thức mới.
